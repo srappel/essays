@@ -4,7 +4,7 @@ Ancient works in the vicinity of Milwaukee, Wisconsin, surveyed in 1836-1852 by 
 
 .ve-map Q37836 12.5
     - allmaps=86cc8b4602f839e6
-    - basemaps=Esri_WorldGrayCanvas
+    - basemaps=Stamen_Toner
     
     
 # Lapham's map of Ancient Works in Wisconsin
