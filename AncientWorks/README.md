@@ -10,7 +10,7 @@ Ancient works in the vicinity of Milwaukee, Wisconsin, surveyed in 1836-1852 by 
 
 Ancient works in the vicinity of Milwaukee, Wisconsin, surveyed in 1836-1852 by I. A. Lapham ; T. Sinclair’s Lith.
 
-.ve-map Q1537 8
+.ve-map Q1537 7
     - allmaps=58c46d32c54f3696
     
   
