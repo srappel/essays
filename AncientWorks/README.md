@@ -12,3 +12,8 @@ Ancient works in the vicinity of Milwaukee, Wisconsin, surveyed in 1836-1852 by 
 
 .ve-map Q1537 8
     - allmaps=f73f0236cb8594c7
+    
+ # Map with Allmaps Historic Map
+
+.ve-map 43.05,-87.95 8
+    - allmaps=256a8e44738391fc
