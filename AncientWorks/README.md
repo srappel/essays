@@ -4,6 +4,7 @@ Ancient works in the vicinity of Milwaukee, Wisconsin, surveyed in 1836-1852 by 
 
 .ve-map Q37836 12.5
     - allmaps=86cc8b4602f839e6
+    - basemaps=Esri_WorldGrayCanvas, Esri_WorldStreetMap, OpenStreetMap, OpenTopoMap
     
     
 # Lapham's map of Ancient Works in Wisconsin
@@ -12,5 +13,5 @@ Ancient works in the vicinity of Milwaukee, Wisconsin, surveyed in 1836-1852 by 
 
 .ve-map Q1537 7
     - allmaps=58c46d32c54f3696
+    - basemaps=Esri_WorldGrayCanvas, Esri_WorldStreetMap, OpenStreetMap, OpenTopoMap
     
-  
