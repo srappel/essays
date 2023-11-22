@@ -3,6 +3,7 @@
 Ancient works in the vicinity of Milwaukee, Wisconsin, surveyed in 1836-1852 by I. A. Lapham ; T. Sinclair’s Lith.
 
 .ve-map Q37836 12.5
+    - caption=Ancient works in the vicinity of Milwaukee, Wisconsin, surveyed in 1836-1852 by I. A. Lapham ; T. Sinclair’s Lith.
     - basemaps=CartoDB_DarkMatter
     - allmaps=86cc8b4602f839e6
     
