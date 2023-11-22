@@ -1,5 +1,5 @@
 # Lapham's map of Ancient Works in the vicinity of Milwaukee
-.ve-map Q37836 12.5 basemaps=OpenStreetMap,Esri_WorldPhysical,Stamen_Watercolor caption=test
+.ve-map Q37836 12.5 basemaps=OpenStreetMap,Esri_WorldPhysical,Stamen_Watercolor caption=test test
     - allmaps=86cc8b4602f839e6
   
    
