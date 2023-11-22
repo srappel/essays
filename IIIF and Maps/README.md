@@ -50,4 +50,4 @@ In this example, the cities are identified simply by locating their Wikidata ID.
 # Map with Allmaps Historic Map
 
 .ve-map 43.05,-87.95 8
-    - allmaps=256a8e44738391fc
+    - allmaps=8b9c456c4c9113a9
