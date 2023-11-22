@@ -1,11 +1,3 @@
-> # Testing Basemaps:
-> 
-> .ve-map Q37836 12 width=100% basemaps=Esri_DeLorme
-> 
-> # Working Basemaps:
-> 
-> .ve-map 37.16032,-79.45313 5 width=50% basemaps=OpenStreetMap,Esri_WorldPhysical, CartoDB_DarkMatter, CartoDB_Positron, CartoDB_Voyager
-
 # Lapham's map of Ancient Works in the vicinity of Milwaukee
 .ve-map Q37836 12.5 basemaps=OpenStreetMap,Esri_WorldPhysical,Stamen_Watercolor
     - allmaps=86cc8b4602f839e6
