@@ -13,3 +13,9 @@ Ancient works in the vicinity of Milwaukee, Wisconsin, surveyed in 1836-1852 by 
 .ve-map Q1537 8
     - allmaps=f73f0236cb8594c7
     
+    
+# Bayfield
+
+.ve-map Q812543 10
+    - allmaps=8b9c456c4c9113a9
+    
