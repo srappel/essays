@@ -9,8 +9,9 @@ View this item in the [UWM Digital Collections](https://collections.lib.uwm.edu/
    
 # Lapham's map of Ancient Works in Wisconsin
 
- Ancient works in the vicinity of Milwaukee, Wisconsin, surveyed in 1836-1852 by I. A. Lapham ; T. Sinclair’s Lith.
+From book entitled: *Antiquities of Wisconsin as surveyed and described*, 1855
 
-.ve-map Q1537 7 basemaps=OpenStreetMap,Esri_WorldPhysical,Stamen_Watercolor
+.ve-map Q1537 7 basemaps=OpenStreetMap,Esri_WorldPhysical caption="Map of the State of Wisconsin shewing the location of the ancient works by I.A. Lapham"
     - allmaps=58c46d32c54f3696
     
+View this item in the [UWM Digital Collections](https://collections.lib.uwm.edu/digital/collection/agdm/id/617).
