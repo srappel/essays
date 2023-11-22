@@ -1,6 +1,6 @@
 # Testing Basemaps:
 
-.ve-map 37.16032,-79.45313 5 width=50% basemaps=CartoDB_Voyager
+.ve-map Q37836 12 width=50% basemaps=CartoDB_Voyager
 
 # Working Basemaps:
 
