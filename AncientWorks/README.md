@@ -1,3 +1,7 @@
+# Basemaps:
+
+.ve-map 37.16032,-79.45313 5 width=50% basemaps=OpenStreetMap,Esri_WorldPhysical,Stamen_Watercolor
+
 # Lapham's map of Ancient Works in the vicinity of Milwaukee
 
 .ve-map Q37836 12.5 basemaps=OpenStreetMap,Esri_WorldPhysical,Stamen_Watercolor
