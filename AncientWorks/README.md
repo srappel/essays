@@ -1,6 +1,6 @@
 # Lapham's map of Ancient Works in the vicinity of Milwaukee
 
-.ve-map Q37836 12.5 basemaps=Esri_WorldGrayCanvas, Esri_WorldStreetMap, OpenStreetMap, OpenTopoMap caption=Ancient works in the vicinity of Milwaukee, Wisconsin, surveyed in 1836-1852 by I. A. Lapham ; T. Sinclair’s Lith.
+.ve-map Q37836 12.5 basemaps=Esri_WorldGrayCanvas, Esri_WorldStreetMap, OpenStreetMap, OpenTopoMap caption="Ancient works in the vicinity of Milwaukee, Wisconsin, surveyed in 1836-1852 by I. A. Lapham ; T. Sinclair’s Lith."
     - allmaps=86cc8b4602f839e6
     
     
